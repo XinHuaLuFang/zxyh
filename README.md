@@ -14,3 +14,9 @@
 	git commit -m "a"
 	git push -u name master
 ```
+
+---
+
+```
+	git config --global credential.helper store
+```
